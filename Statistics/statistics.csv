@@ -1,0 +1,15 @@
+,All_data,Train,Validate,Test
+Experience,753,604,71,78
+Knowledge,1017,836,82,99
+Skills,2545,2055,226,264
+Areas,352,282,29,41
+Diploma,56,45,5,6
+Major,152,115,14,23
+Experience_skills,1054,845,99,110
+Knowledge_skills,1552,1270,127,155
+Experience_areas,123,101,11,11
+Knowledge_areas,242,189,19,34
+Degree_in,159,122,14,23
+Average_sentence,5.82,5.89,4.64,6.38
+Average_word,70.12,70.77,63.28,71.62
+Triple,3130,2527,270,333

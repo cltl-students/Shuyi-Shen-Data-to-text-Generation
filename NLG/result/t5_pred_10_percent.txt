@@ -1,0 +1,170 @@
+ Some experience of programming
+ Familiarity with digital health, medicines and electronic health data is a plus
+ Degree in Computer Science or Engineering or relevant level
+ Proficiency in fundamental front end languages like HTML, CSS and JavaScript
+ Proficiency in server-side languages like Python, Ruby, Java, PHP, and Net
+ Familiarity with database technology such as MySQL, Oracle, MongoDB
+ Ability to interact with colleagues from all disciplines
+ Excellent attention to detail is desirable
+ Familiarity with JavaScript frameworks, Angular JS, React and
+ Ability to work as part of a team and be flexible during busy periods
+ Working knowledge of OTC/Repo Collateral Management and supporting Legal documentation is desirable
+ Multiple years of hands-on experience designing and developing REST based enterprise level web services
+ Ideally has knowledge of version control strategies, GIT, GIT, GIT, G
+ Contracts first, Test Driven Development
+ Ideally has experience of debugging
+ Demonstrated experience of working in an environment calling for frequent, high-quality delivery
+ Ability to think strategically using broad suite of data in an integrated way
+ Ability to explore user needs and make recommendations on data collection and interpretation to support evidence led decision making
+ Ability to present data using different approaches best suited to the audience
+ Experience in delivering a data warehouse solution from scratch
+ A strong understanding of SQL Azure principals (Azu Data Factory, Azure Databricks
+ Understanding Agile methodologies is desirable
+ Experience with Python/Spark
+ Advanced knowledge of Call Centre Operations, Contact Centre Metrics, Work, Work and Systems
+ Ability to demonstrate leadership capabilities
+ Ability to work in a consistently fast-paced, high-volume, high-stress
+ High proficiency in Microsoft Office products (Excel, Work, PowerPoint, etc
+ Experience in collaboration and communication is desirable
+ Proficiency in WFM scheduling software or equivalent
+ Experience with Real Time call and chat monitoring systems
+ Basic knowledge and understanding of Workforce Planning platforms and practices
+ Ability to communicate with different levels of internal and external stakeholders
+ Ability to adapt to a rapidly changing business environment, quickly assess situations and capitalize on change
+ Ability to multi task across multiple initiatives
+ Passionate with financial markets and career driven
+ Previous software development experience in a commercial environment is desirable
+ Experience of working with C# ASP. NET/ NET Core
+ Knowledgeledge integrating with databases, ideally SQL Server
+ Computing related degree in Software Engineering or Computer Science or similar related subject
+ Familiar with a collaborative, agile approach is desirable
+ An understanding of SOLID principles and architectural design patterns is desirable
+ Awareness of TDD and writing unit and integration tests
+ Experience in a data/analytic role or a technical/administrative
+ Good knowledge of Excel and Data Analysis ( pivot tables, v-lookups, basic
+ Ideally has experience of building Drupal and WordPress websites
+ Knowledge of Git version control system and understanding of its use in a continuous integration workflow
+ be able to talk to users (including staff and students) to enable the identification and understanding
+ Experience of using Power BI and DAX
+ Strong academic background in a STEM discipline or Applied Mathematics or Physics is a plus
+ Extensive experience in Python, R, R and SQL
+ Experience with advanced statistical modeling and machine learning techniques
+ Experience with data visualization tools such as Tableau
+ Proven ability to analyze large data sets and translating insights into actionable business recommendations
+ Proficient user of MS Excel and development of macros
+ Experience with relational databases is desirable
+ Knowledge of geoscience data management software such as HoleBase SI
+ Knowledge of coding is a plus
+ Knowledge of AGS data format is desirable
+ Experience with responsive website design, development and build
+ Experience debugging cross-device compatibility issues
+ Experience of working within a web development environment
+ Experience developing and extending content management systems, or a range of digital content publishing
+ Experience in managing design projects, interpreting creative briefs, presenting concepts and responding
+ Knowledge of accessibility and web analytics and search engine optimisation is a plus
+ Proficient in using design software such as the Adobe Creative Suite, wireframing tools and
+ Proficient in version control using GIT
+ Proficient in writing a range of languages, CSS, SQL
+ Proficient in linting, minification and post-processing
+ Ability to act independently and make decisions without supervision, using judgement and discretion
+ Ability to rapidly build business understanding to identify opportunities for improvement and provide creative solutions in a method
+ Experience with DBT or Python is a plus
+ Experience of working in cross-functional projects and across multi-disciplinary teams
+ Strong experience in C#. NET is desirable
+ Confident in building end to end applications
+ Database experience in SQL or Database experience with NoSQL (CosmosDB)
+ Experiment in DevOps environment is desirable as is the ability to a
+ Familiar with Microservice Architecture
+ Comfortable working in Agile Development Practices (Scrum)
+ Experience with cloud platform (Azure)
+ Experience with Microsoft Office, Google Suite and similar software
+ The capability to take initiative and develop solutions to any issues encountered by the Legal team
+ A basic understanding of Microsoft programmes, such as Word and Excel
+ A desire to remain and grow with the company
+ Commercial experience of building customer facing, accessible and mobile-friendly websites and web shops
+ Able to produce and maintain high quality HTML, CSS and JavaScript code
+ An interest in developing websites in Vue
+ Extensive experience of building sites in WordPress using WP Templates
+ Able to communicate technical concerns to both developers and stakeholders
+ Experience with JavaScript frameworks (ideally Vue.js and Nux
+ Experience working in an agile team and taking part in daily stand-ups, code
+ Previous experience of building WooCommerce-based web shops
+ Experience of working with Web APIs
+ Experience of working with and writing SQL
+ Familiar with CI/CD technologies (ideally GitLab)
+ Familiarity with JIRA and Confluence
+ Experience testing frameworks (Seleenium, Jest, Mocha, Cha
+ Desire to learn new programming languages and frameworks
+ Ability to design and implement intuitive user interfaces
+ Experience testing, debugging and maintaining web applications
+ Bachelor's degree in Computer Science or equivalent qualification or technical experience is desirable
+ Experience in software development in a regulated industry (such as medical, automotive,
+ Experience testing frameworks
+ Working knowledge of source control management and Git
+ Experience with issue management systems such as GitLab, JIRA
+ Experience of working with Agile software development methodologies
+ Familiarity with AWS is desirable
+ Experience programming with the React framework, JavaScript, JavaScript, and one other
+ Experience with data visualisation is desirable
+ Experience with TypeScript, typing systems and Flow
+ Proficient in HTML5/CS3
+ Integration experience with HTTP APIs (e
+ Knowledge of secure web development practices
+ Experience of tracking down bugs in a production environment
+ Ideally has keen interest in learning new technologies and keen interest in learning new technologies
+ Ability to work with a variety of languages and technologies day-to-day
+ MSc/BSc degree in Computer Science or relevant field is desirable
+ Familiarity with modern web standards (i. e. ES6, CSS
+ Familiarity with version control (e.g. Git, SVN,
+ Proficiency in relational databases (e
+ The ability to perform tasks in a meticulous manner with close attention to detail
+ Previous experience in Excel is desirable
+ Experience in a GXP accredited laboratory is desirable
+ Having good knowledge of Watson LIMS and processes required for sample handling including report generation
+ Maintaining good knowledge of Microsoft Excel function is desirable
+ Experience with PHP, VueJS, Laravel, Git, Dock
+ Knowledge of GraphQL, REST, SOAP API’s
+ Experience of working in Agile environment
+ BS degree in Accounting or equivalent experience desirable
+ Experience in indirect VAT, GST and revenue accounting
+ Ability to explain financial/tech concepts and analysis implications clearly to a wide audience and be
+ Experience in delivering projects and programs across multiple teams
+ Ability to work successfully in a team environment and build effective working relationships inside and outside of the
+ Experience with large data sets, data reconciliation and data investigation
+ Extensive experience in tax, data analysis or related field
+ Ability to develop web based, intranet solutions and experience with web based, intranet
+ Working experience with software development tools and practices
+ Ability to actively support the customer in all aspects of product development
+ Strong ability to collect data and understand business requirements
+ Working experience with Power BI desirable
+ Excellent knowledge of TypeScript and JavaScript
+ Excellent knowledge of HTML and CSS
+ Passion and continuous learning is desirable
+ Proficient with object-oriented design principles and design patterns
+ Good understanding of complete product development cycle
+ Experience with one source code versioning systems (Git, SVN...)
+ Experience in web services development (Web API, REST)
+ Excellent knowledge of. Net (C#)
+ Minimum 3 years of professional experience in Angular framework (up to v8)
+ Ability to work independently and adapt and learn new technologies
+ Demonstrated experience of working with confidential and sensitive information
+ Advanced knowledge of Excel is desirable
+ Experience of producing reports including statistical graphs and charts
+ Experience of dealing with complex queries
+ Experience of working in a customer centric role is desirable as is the ability to
+ Experience with LAMP Stack, HTML 5 (including Semantic elements) and
+ Knowledge of PHP/Word, MySQL (using phpMyAdmin) and Version control
+ Have good grasp of good communication skills
+ Familiarity with Adobe CC products is desirable
+ A passion for great design and UX
+ Experience in Laravel is desirable
+ Familiarity with REST API integration
+ Ability to produce and maintain production ready code
+ Experience test-driven development ( Unit tests, E-2-1 E tests, Regression
+ NodeJS is a strong plus
+ Experience of working with the full MicroStrategy lifecycle
+ Strong background in data and report design
+ Proficient in SQL-writing queries and store procedures
+ Experience with agile methodologies is desirable
+ Experience of working with large data sets
+ Experience in a similar role (hospitality/cinematic front of house)
